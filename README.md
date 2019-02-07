@@ -7,6 +7,7 @@
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/2?average=30&bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&round=2&title=Pressure+BMP280&type=line&xaxis=Date%2FTime&yaxis=hPa"></iframe>
 
 
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/betonoweprojekty/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -44,3 +45,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
