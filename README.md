@@ -1,6 +1,6 @@
 
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/1?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature&type=line&xaxis=Date%2FTime&yaxis=%2AC"></iframe>
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/1?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature+BMP280&type=line&xaxis=Date%2FTime&yaxis=%2AC"></iframe>
 
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/5?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature+DS18B20&type=line&xaxis=Date%2FTime&yaxis=%2AC"></iframe>
 
