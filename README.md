@@ -17,6 +17,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+## Indoor temperature (BMP280)
+
 - Bulleted
 - List
 
