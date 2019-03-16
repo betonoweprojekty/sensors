@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <table>
   
   <tr>
-      <td>##Outside temperature (DS18B20)</td>
+      <td>## Outside temperature (DS18B20)</td>
   </tr>
   <tr>
   <tr>
@@ -51,7 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   </tr>
   
   <tr>
-      <td>##Pressure (BMP280)</td>
+      <td>## Pressure (BMP280)</td>
   </tr>
   <tr>
   <tr>
@@ -60,7 +60,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   </tr>
   
   <tr>
-      <td>##Indoor temperature (BMP280)</td>
+      <td>## Indoor temperature (BMP280)</td>
   </tr>
   <tr>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/1?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature+BMP280&type=line&xaxis=Date%2FTime&yaxis=%2AC"></iframe></td>  
@@ -68,7 +68,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   </tr>
     
   <tr>
-      <td>##Indoor temperature (DS18B20)</td>
+      <td>## Indoor temperature (DS18B20)</td>
   </tr>
   <tr>
   <tr>
