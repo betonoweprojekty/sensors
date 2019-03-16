@@ -1,4 +1,4 @@
-<!-- -->
+<!--
 
 ## Welcome to GitHub Pages
 
@@ -39,16 +39,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+-->
+
 
 ## Outside temperature (DS18B20)
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/6?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature+DS18B20+-+Outdoor&type=line&xaxis=Date&yaxis=%2AC"></iframe>  <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/widgets/46411"></iframe>
 
 <table>
   
-  <tr>
-      <td>## Outside temperature (DS18B20)</td>
-  </tr>
-  <tr>
   <tr>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/6?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature+DS18B20+-+Outdoor&type=line&xaxis=Date&yaxis=%2AC"></iframe></td>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/widgets/46411"></iframe></td>
@@ -57,7 +54,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <tr>
       <td>## Pressure (BMP280)</td>
   </tr>
-  <tr>
   <tr>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/2?average=30&bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&round=2&title=Pressure+BMP280&type=line&xaxis=Date%2FTime&yaxis=hPa"></iframe></td>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/widgets/36973"></iframe></td>
@@ -74,7 +70,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <tr>
       <td>## Indoor temperature (DS18B20)</td>
   </tr>
-  <tr>
   <tr>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/charts/5?average=10&bgcolor=%23ffffff&color=%23d62020&days=2&dynamic=true&round=2&title=Temperature+DS18B20&type=line&xaxis=Date%2FTime&yaxis=%2AC"></iframe></td>
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/widgets/46410"></iframe></td>
