@@ -31,8 +31,34 @@
     <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/686268/widgets/46410"></iframe></td>
   </tr>  
 </table>
- 
+
+## About sensors
+<table>
+  <tr>
+    <td>
+      DS18B20
+    </td>
+    <td>
+     BMP280
+    </td>
+  </tr>
+  <tr> 
+    <td>
+      <a href="https://www.maximintegrated.com/en/products/sensors/DS18B20.html">
+      <img src="https://cdn.shopify.com/s/files/1/2396/0755/products/DS18B20_temperature_sensor_1000_grande.JPG?v=1506866338" width="200" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.bosch-sensortec.com/bst/products/all_products/bmp280">
+      <img src="https://kamami.pl/56077-thickbox_default/gy-bmp280-modul-z-czujnikiem-cisnienia-mems-bmp280-firmy-bosch.jpg" width="200" height="200">
+      </a>
+    </td>
+  </tr>  
+</table>
+
 <!--
+
+
 
 ## Welcome to GitHub Pages
 
