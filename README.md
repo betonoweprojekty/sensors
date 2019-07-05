@@ -41,6 +41,9 @@
     <td>
      BMP280
     </td>
+    <td>
+     DHT11
+    </td>
   </tr>
   <tr> 
     <td>
@@ -51,6 +54,11 @@
     <td>
       <a href="https://www.bosch-sensortec.com/bst/products/all_products/bmp280" target="_blank">
       <img src="https://kamami.pl/56077-thickbox_default/gy-bmp280-modul-z-czujnikiem-cisnienia-mems-bmp280-firmy-bosch.jpg" width="200" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="http://www.aosong.com/userfiles/images/product/dht11/DHT11-1.jpg" target="_blank">
+      <img src="http://www.aosong.com/userfiles/images/product/dht11/DHT11-1.jpg" width="200" height="200">
       </a>
     </td>
   </tr>  
