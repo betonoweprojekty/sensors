@@ -44,6 +44,9 @@
     <td>
      DHT11
     </td>
+    <td>
+     DHT22
+    </td>
   </tr>
   <tr> 
     <td>
@@ -57,8 +60,13 @@
       </a>
     </td>
     <td>
-      <a href="http://www.aosong.com/userfiles/images/product/dht11/DHT11-1.jpg" target="_blank">
+      <a href="http://www.aosong.com/en/products-21.html" target="_blank">
       <img src="http://www.aosong.com/userfiles/images/product/dht11/DHT11-1.jpg" width="200" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="http://www.aosong.com/en/products-22.html" target="_blank">
+      <img src="http://www.aosong.com/userfiles/images/product/English/CN2302.jpg" width="200" height="200">
       </a>
     </td>
   </tr>  
