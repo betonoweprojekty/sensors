@@ -44,12 +44,12 @@
   </tr>
   <tr> 
     <td>
-      <a href="https://www.maximintegrated.com/en/products/sensors/DS18B20.html">
+      <a href="https://www.maximintegrated.com/en/products/sensors/DS18B20.html" target="_blank">
       <img src="https://cdn.shopify.com/s/files/1/2396/0755/products/DS18B20_temperature_sensor_1000_grande.JPG?v=1506866338" width="200" height="200">
       </a>
     </td>
     <td>
-      <a href="https://www.bosch-sensortec.com/bst/products/all_products/bmp280">
+      <a href="https://www.bosch-sensortec.com/bst/products/all_products/bmp280" target="_blank">
       <img src="https://kamami.pl/56077-thickbox_default/gy-bmp280-modul-z-czujnikiem-cisnienia-mems-bmp280-firmy-bosch.jpg" width="200" height="200">
       </a>
     </td>
